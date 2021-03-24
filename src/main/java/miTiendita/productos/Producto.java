@@ -21,11 +21,6 @@ public class Producto {
         return ctd;
     }
 
-    public String toString()
-    {
-        return descripcion;
-    }
-
     public int getClave() {
         return clave;
     }
